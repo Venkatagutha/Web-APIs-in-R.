@@ -1,5 +1,5 @@
 # Web-APIs-in-R.
-APIs allow you to access a program from another program.
+
 
 Here I am trying to get information of planet
 "Alderaan" from star wars.
