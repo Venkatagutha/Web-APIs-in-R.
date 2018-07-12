@@ -11,3 +11,5 @@ JSONLite and XML- parses http responses
 And then with the help of tidyr and dplyr we 
 can perform further operation to be used for
 analysis and visualisations
+
+# Ref: https://www.rstudio.com/resources/videos/using-web-apis-from-r/
